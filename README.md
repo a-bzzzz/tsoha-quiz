@@ -32,3 +32,9 @@ Vastauksen j채lkeen pelaaja saa palautetta siit채, oliko vastaus oikein vai v채�
 Pelaaja ker채채 pisteit채 oikeilla vastauksilla vaikeustason mukaan.   
 Pelaaja voi seurata omaa tulossaldoa pelin aikana.   
 Pelaaja voi lopettaa pelaamisen ja kirjautua ulos sovelluksesta.   
+
+## Sovelluksen rakenne
+
+### Tietokanta
+
+Tietokantataulut ja niiden v채liset yhteydet on alustavasti suunniteltu seuraavasti: [Tietokantakaavio](https://github.com/a-bzzzz/tsoha-quiz/blob/main/documentation/db_structure.png)
