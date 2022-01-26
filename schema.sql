@@ -2,7 +2,7 @@ CREATE TABLE users (
     id SERIAL PRIMARY KEY,
     username TEXT NOT NULL UNIQUE,
     password TEXT NOT NULL,
-    role INTEGER DEFAULT '2',
+    role_id INTEGER DEFAULT 2,
     active BOOLEAN,
     created_at TIMESTAMP
 );
